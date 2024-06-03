@@ -1,0 +1,6 @@
+if (x < 10) { x = x + 1 ;} 
+if (x == 5 ) { x = x + 1 ;} else {}
+for (i = 0 ; i < 10; i ++ ) 
+{
+    System.out.println(\"x is positive\");
+}
